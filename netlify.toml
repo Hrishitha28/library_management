@@ -1,4 +1,5 @@
 [[redirects]]
 from= "/*"
 to="/index.html"
+to="/Admin.html"
 status=200
